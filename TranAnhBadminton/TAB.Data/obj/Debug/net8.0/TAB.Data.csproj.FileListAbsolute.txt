@@ -1,0 +1,15 @@
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\TAB.Data.csproj.AssemblyReference.cache
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\TAB.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\TAB.Data.AssemblyInfoInputs.cache
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\TAB.Data.AssemblyInfo.cs
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\TAB.Data.csproj.CoreCompileInputs.cache
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\TAB.Data.sourcelink.json
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Data\bin\Debug\net8.0\TAB.Data.deps.json
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Data\bin\Debug\net8.0\TAB.Data.runtimeconfig.json
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Data\bin\Debug\net8.0\TAB.Data.dll
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Data\bin\Debug\net8.0\TAB.Data.pdb
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\TAB.Data.dll
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\refint\TAB.Data.dll
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\TAB.Data.pdb
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\TAB.Data.genruntimeconfig.cache
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\ref\TAB.Data.dll

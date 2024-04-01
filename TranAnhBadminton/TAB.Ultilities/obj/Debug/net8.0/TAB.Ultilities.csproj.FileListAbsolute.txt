@@ -1,0 +1,12 @@
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Ultilities\bin\Debug\net8.0\TAB.Ultilities.deps.json
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Ultilities\bin\Debug\net8.0\TAB.Ultilities.dll
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Ultilities\bin\Debug\net8.0\TAB.Ultilities.pdb
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Ultilities\obj\Debug\net8.0\TAB.Ultilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Ultilities\obj\Debug\net8.0\TAB.Ultilities.AssemblyInfoInputs.cache
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Ultilities\obj\Debug\net8.0\TAB.Ultilities.AssemblyInfo.cs
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Ultilities\obj\Debug\net8.0\TAB.Ultilities.csproj.CoreCompileInputs.cache
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Ultilities\obj\Debug\net8.0\TAB.Ultilities.sourcelink.json
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Ultilities\obj\Debug\net8.0\TAB.Ultilities.dll
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Ultilities\obj\Debug\net8.0\refint\TAB.Ultilities.dll
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Ultilities\obj\Debug\net8.0\TAB.Ultilities.pdb
+D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.Ultilities\obj\Debug\net8.0\ref\TAB.Ultilities.dll

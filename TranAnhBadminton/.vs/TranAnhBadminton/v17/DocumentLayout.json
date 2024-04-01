@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A21A735E-70CE-4FD8-8F7D-14939AEEDB09}|TAB.ViewModels\\TAB.ViewModels.csproj|d:\\data\\hk2_nam_4\\dacn\\project\\source_code\\tran_anh_badminton_tab\\trananhbadminton\\tab.viewmodels\\catalog\\brand\\brandcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21A735E-70CE-4FD8-8F7D-14939AEEDB09}|TAB.ViewModels\\TAB.ViewModels.csproj|solutionrelative:tab.viewmodels\\catalog\\brand\\brandcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21A735E-70CE-4FD8-8F7D-14939AEEDB09}|TAB.ViewModels\\TAB.ViewModels.csproj|d:\\data\\hk2_nam_4\\dacn\\project\\source_code\\tran_anh_badminton_tab\\trananhbadminton\\tab.viewmodels\\catalog\\brand\\brandupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21A735E-70CE-4FD8-8F7D-14939AEEDB09}|TAB.ViewModels\\TAB.ViewModels.csproj|solutionrelative:tab.viewmodels\\catalog\\brand\\brandupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21A735E-70CE-4FD8-8F7D-14939AEEDB09}|TAB.ViewModels\\TAB.ViewModels.csproj|d:\\data\\hk2_nam_4\\dacn\\project\\source_code\\tran_anh_badminton_tab\\trananhbadminton\\tab.viewmodels\\catalog\\brand\\brandviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21A735E-70CE-4FD8-8F7D-14939AEEDB09}|TAB.ViewModels\\TAB.ViewModels.csproj|solutionrelative:tab.viewmodels\\catalog\\brand\\brandviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21A735E-70CE-4FD8-8F7D-14939AEEDB09}|TAB.ViewModels\\TAB.ViewModels.csproj|d:\\data\\hk2_nam_4\\dacn\\project\\source_code\\tran_anh_badminton_tab\\trananhbadminton\\tab.viewmodels\\catalog\\bill\\billviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21A735E-70CE-4FD8-8F7D-14939AEEDB09}|TAB.ViewModels\\TAB.ViewModels.csproj|solutionrelative:tab.viewmodels\\catalog\\bill\\billviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0450C92C-A39D-4D2D-85EB-18DD2BBB2373}|TAB.App\\TAB.App.csproj|d:\\data\\hk2_nam_4\\dacn\\project\\source_code\\tran_anh_badminton_tab\\trananhbadminton\\tab.app\\catalog\\bill\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0450C92C-A39D-4D2D-85EB-18DD2BBB2373}|TAB.App\\TAB.App.csproj|solutionrelative:tab.app\\catalog\\bill\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0450C92C-A39D-4D2D-85EB-18DD2BBB2373}|TAB.App\\TAB.App.csproj|d:\\data\\hk2_nam_4\\dacn\\project\\source_code\\tran_anh_badminton_tab\\trananhbadminton\\tab.app\\catalog\\bill\\interfacebillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0450C92C-A39D-4D2D-85EB-18DD2BBB2373}|TAB.App\\TAB.App.csproj|solutionrelative:tab.app\\catalog\\bill\\interfacebillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F9933A-8033-4680-827A-98EF8CC761AB}|TAB.BackendApi\\TAB.BackendApi.csproj|d:\\data\\hk2_nam_4\\dacn\\project\\source_code\\tran_anh_badminton_tab\\trananhbadminton\\tab.backendapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F9933A-8033-4680-827A-98EF8CC761AB}|TAB.BackendApi\\TAB.BackendApi.csproj|solutionrelative:tab.backendapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrandCreateRequest.cs",
+              "DocumentMoniker": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\TAB.ViewModels\\Catalog\\Brand\\BrandCreateRequest.cs",
+              "RelativeDocumentMoniker": "TAB.ViewModels\\Catalog\\Brand\\BrandCreateRequest.cs",
+              "ToolTip": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\TAB.ViewModels\\Catalog\\Brand\\BrandCreateRequest.cs",
+              "RelativeToolTip": "TAB.ViewModels\\Catalog\\Brand\\BrandCreateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T10:06:16.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrandUpdateRequest.cs",
+              "DocumentMoniker": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\TAB.ViewModels\\Catalog\\Brand\\BrandUpdateRequest.cs",
+              "RelativeDocumentMoniker": "TAB.ViewModels\\Catalog\\Brand\\BrandUpdateRequest.cs",
+              "ToolTip": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\TAB.ViewModels\\Catalog\\Brand\\BrandUpdateRequest.cs",
+              "RelativeToolTip": "TAB.ViewModels\\Catalog\\Brand\\BrandUpdateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T10:06:02.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrandViewModel.cs",
+              "DocumentMoniker": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\TAB.ViewModels\\Catalog\\Brand\\BrandViewModel.cs",
+              "RelativeDocumentMoniker": "TAB.ViewModels\\Catalog\\Brand\\BrandViewModel.cs",
+              "ToolTip": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\TAB.ViewModels\\Catalog\\Brand\\BrandViewModel.cs",
+              "RelativeToolTip": "TAB.ViewModels\\Catalog\\Brand\\BrandViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T10:05:43.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BillViewModel.cs",
+              "DocumentMoniker": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\TAB.ViewModels\\Catalog\\Bill\\BillViewModel.cs",
+              "RelativeDocumentMoniker": "TAB.ViewModels\\Catalog\\Bill\\BillViewModel.cs",
+              "ToolTip": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\TAB.ViewModels\\Catalog\\Bill\\BillViewModel.cs",
+              "RelativeToolTip": "TAB.ViewModels\\Catalog\\Bill\\BillViewModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T10:03:31.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BillService.cs",
+              "DocumentMoniker": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\TAB.App\\Catalog\\Bill\\BillService.cs",
+              "RelativeDocumentMoniker": "TAB.App\\Catalog\\Bill\\BillService.cs",
+              "ToolTip": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\TAB.App\\Catalog\\Bill\\BillService.cs",
+              "RelativeToolTip": "TAB.App\\Catalog\\Bill\\BillService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T10:03:03.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InterfaceBillService.cs",
+              "DocumentMoniker": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\TAB.App\\Catalog\\Bill\\InterfaceBillService.cs",
+              "RelativeDocumentMoniker": "TAB.App\\Catalog\\Bill\\InterfaceBillService.cs",
+              "ToolTip": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\TAB.App\\Catalog\\Bill\\InterfaceBillService.cs",
+              "RelativeToolTip": "TAB.App\\Catalog\\Bill\\InterfaceBillService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T10:02:37.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\TAB.BackendApi\\Startup.cs",
+              "RelativeDocumentMoniker": "TAB.BackendApi\\Startup.cs",
+              "ToolTip": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\TAB.BackendApi\\Startup.cs",
+              "RelativeToolTip": "TAB.BackendApi\\Startup.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwEAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T10:01:47.423Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 100,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
