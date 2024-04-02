@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TAB.App
-build_property.ProjectDir = D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\Tran_Anh_Badminton_TAB\TranAnhBadminton\TAB.App\
+build_property.ProjectDir = D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\CSharp_Web_MVC\TranAnhBadminton\TAB.App\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

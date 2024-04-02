@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using TAB.App.Catalog.Bill;
-using TAB.ViewModels.Catalog.Bill;
+using TAB.App.Bill;
+using TAB.ViewModels.Bill;
 
 namespace TAB.BackendApi.Controllers
 {

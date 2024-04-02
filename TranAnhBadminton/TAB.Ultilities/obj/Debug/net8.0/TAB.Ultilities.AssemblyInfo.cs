@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TAB.Ultilities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ff66da5a182467007a420887737813521aa3d10")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55711d861580926074041e151d510870ba1aeaf6")]
 [assembly: System.Reflection.AssemblyProductAttribute("TAB.Ultilities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TAB.Ultilities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

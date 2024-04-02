@@ -4,8 +4,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TAB.ViewModels.Catalog.Common;
 using TAB.ViewModels.Catalog.Products;
+using TAB.ViewModels.Common;
 
 namespace TAB.App.Catalog.Products
 {

@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 using TAB.App.Common;
 using TAB.Data.EF;
 using TAB.Data.Entities;
-using TAB.ViewModels.Catalog.Bill;
+using TAB.ViewModels.Bill;
 
-namespace TAB.App.Catalog.Bill
+namespace TAB.App.Bill
 {
     public class BillService : InterfaceBillService
     {

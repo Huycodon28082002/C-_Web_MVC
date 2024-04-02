@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using TAB.App.System;
-using TAB.ViewModels.System;
+using TAB.ViewModels.System.Users;
 
 namespace TAB.BackendApi.Controllers
 {

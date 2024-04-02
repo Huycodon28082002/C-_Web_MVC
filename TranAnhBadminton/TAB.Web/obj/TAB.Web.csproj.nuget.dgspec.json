@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\TAB.Web\\TAB.Web.csproj": {}
+    "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Web\\TAB.Web.csproj": {}
   },
   "projects": {
-    "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\TAB.Web\\TAB.Web.csproj": {
+    "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Web\\TAB.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\TAB.Web\\TAB.Web.csproj",
+        "projectUniqueName": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Web\\TAB.Web.csproj",
         "projectName": "TAB.Web",
-        "projectPath": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\TAB.Web\\TAB.Web.csproj",
+        "projectPath": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Web\\TAB.Web.csproj",
         "packagesPath": "C:\\Users\\Duc Anh\\.nuget\\packages\\",
-        "outputPath": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\TAB.Web\\obj\\",
+        "outputPath": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Duc Anh\\AppData\\Roaming\\NuGet\\NuGet.Config",

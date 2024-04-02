@@ -9,10 +9,10 @@ using System.Threading.Tasks;
 using TAB.Data.EF;
 using TAB.Data.Entities;
 using TAB.Ultilities.Exceptions;
-using TAB.ViewModels.Catalog.Brand;
+using TAB.ViewModels.Brand;
 using TAB.ViewModels.Catalog.Products;
 
-namespace TAB.App.Catalog.Brand
+namespace TAB.App.Brand
 {
     public class BrandService : InterfaceBrandService
     {

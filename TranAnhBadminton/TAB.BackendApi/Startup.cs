@@ -1,16 +1,18 @@
-﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
+﻿using FluentValidation.AspNetCore;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
-using TAB.App.Catalog.Bill;
-using TAB.App.Catalog.Brand;
+using TAB.App.Bill;
+using TAB.App.Brand;
 using TAB.App.Catalog.Products;
 using TAB.App.Common;
 using TAB.App.System;
 using TAB.Data.EF;
 using TAB.Data.Entities;
 using TAB.Ultilities.Constant;
+using TAB.ViewModels.System.Users;
 
 namespace TAB.BackendApi
 {
@@ -52,7 +54,8 @@ namespace TAB.BackendApi
             // Đăng ký dịch vụ UserService
             services.AddTransient<InterfaceUserService, UserService>();
 
-            services.AddControllers();
+            services.AddControllers()
+                .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<LoginRequestValidator>());
 
             services.AddSwaggerGen(c =>
             {

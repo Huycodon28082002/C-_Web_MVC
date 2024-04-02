@@ -4,11 +4,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TAB.ViewModels.Catalog.Bill;
-using TAB.ViewModels.Catalog.Brand;
-using TAB.ViewModels.Catalog.Common;
+using TAB.ViewModels.Brand;
+using TAB.ViewModels.Bill;
+using TAB.ViewModels.Common;
 
-namespace TAB.App.Catalog.Brand
+namespace TAB.App.Brand
 {
     public interface InterfaceBrandService
     {

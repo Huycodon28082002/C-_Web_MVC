@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TAB.Data.Entities;
 
-namespace TAB.ViewModels.Catalog.Bill
+namespace TAB.ViewModels.Bill
 {
     public class BillViewModel
     {

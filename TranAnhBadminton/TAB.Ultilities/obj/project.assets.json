@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\TAB.Ultilities\\TAB.Ultilities.csproj",
+      "projectUniqueName": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Ultilities\\TAB.Ultilities.csproj",
       "projectName": "TAB.Ultilities",
-      "projectPath": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\TAB.Ultilities\\TAB.Ultilities.csproj",
+      "projectPath": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Ultilities\\TAB.Ultilities.csproj",
       "packagesPath": "C:\\Users\\Duc Anh\\.nuget\\packages\\",
-      "outputPath": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\TAB.Ultilities\\obj\\",
+      "outputPath": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Ultilities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Duc Anh\\AppData\\Roaming\\NuGet\\NuGet.Config",

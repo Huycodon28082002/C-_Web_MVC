@@ -1,10 +1,8 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using TAB.App.Catalog.Bill;
-using TAB.App.Catalog.Brand;
+using TAB.App.Brand;
 using TAB.App.Catalog.Products;
-using TAB.ViewModels.Catalog.Bill;
-using TAB.ViewModels.Catalog.Brand;
+using TAB.ViewModels.Brand;
 using TAB.ViewModels.Catalog.Products;
 
 namespace TAB.BackendApi.Controllers

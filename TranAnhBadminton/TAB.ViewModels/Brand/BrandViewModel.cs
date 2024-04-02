@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using TAB.Data.Entities;
 using TAB.Data.Enums;
 
-namespace TAB.ViewModels.Catalog.Brand
+namespace TAB.ViewModels.Brand
 {
     public class BrandViewModel
     {

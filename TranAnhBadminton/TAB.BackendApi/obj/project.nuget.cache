@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "L77Yb0Ey8r8EwHk+PxQ3BsaPRow3SJZ1AHQcLDwHTDB6iUcYEeSJNPFxIy1BcHU7tSaagMyHRaP4c0whmPxIlw==",
+  "dgSpecHash": "eL7v/BnMBHawhn0+Qoz71HtZzhE0U2+93s4AOBd5ooGyg2UAQFic3UoOB1pyN3p28gElw1qGDyyOjb+joft6ZA==",
   "success": true,
-  "projectFilePath": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\TAB.BackendApi\\TAB.BackendApi.csproj",
+  "projectFilePath": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.BackendApi\\TAB.BackendApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Duc Anh\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Duc Anh\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Duc Anh\\.nuget\\packages\\fluentassertions\\6.12.0\\fluentassertions.6.12.0.nupkg.sha512",
+    "C:\\Users\\Duc Anh\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\Duc Anh\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Duc Anh\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\Duc Anh\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Duc Anh\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Duc Anh\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.2.0\\microsoft.aspnetcore.authentication.cookies.2.2.0.nupkg.sha512",

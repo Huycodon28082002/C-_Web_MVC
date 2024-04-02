@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3F/OFc0jpLy6/r4jYQuOKFb/WIor+BcyFHjkqWOpJwNddE1LZ+agNIJ1ur5JA3Lat6d8SwaOdqV4LNdN8VkYTA==",
+  "dgSpecHash": "xsmds84hj/PcTPX55fJXN/D5J6C/Hn7Z1E2pXNEU4uT9k+miGeIGkWX59hrkwT8NJIKQMoJ7Y+1v1wau2g73Ng==",
   "success": true,
-  "projectFilePath": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\Tran_Anh_Badminton_TAB\\TranAnhBadminton\\TAB.Data\\TAB.Data.csproj",
+  "projectFilePath": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Data\\TAB.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Duc Anh\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Duc Anh\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

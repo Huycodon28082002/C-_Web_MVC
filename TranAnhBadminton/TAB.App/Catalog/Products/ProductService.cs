@@ -1,4 +1,4 @@
-﻿    using eShopSolution.ViewModels.Catalog.Products;
+﻿using eShopSolution.ViewModels.Catalog.Products;
 using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Net.Http.Headers;
@@ -11,8 +11,8 @@ using TAB.App.Common;
 using TAB.Data.EF;
 using TAB.Data.Entities;
 using TAB.Ultilities.Exceptions;
-using TAB.ViewModels.Catalog.Common;
 using TAB.ViewModels.Catalog.Products;
+using TAB.ViewModels.Common;
 
 namespace TAB.App.Catalog.Products
 {
