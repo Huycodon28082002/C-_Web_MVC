@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TAB.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55711d861580926074041e151d510870ba1aeaf6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdfe60463d1a51338834a94b09090e55bbca96da")]
 [assembly: System.Reflection.AssemblyProductAttribute("TAB.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TAB.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
