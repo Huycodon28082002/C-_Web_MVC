@@ -42,9 +42,9 @@
               "Title": "form-add-san-pham.html",
               "DocumentMoniker": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\wwwroot\\doc\\form-add-san-pham.html",
               "RelativeDocumentMoniker": "TAB.Admin\\wwwroot\\doc\\form-add-san-pham.html",
-              "ToolTip": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\wwwroot\\doc\\form-add-san-pham.html*",
-              "RelativeToolTip": "TAB.Admin\\wwwroot\\doc\\form-add-san-pham.html*",
-              "ViewState": "AQIAAJUBAAAAAAAAAAAMwKcBAAApAAAA",
+              "ToolTip": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\wwwroot\\doc\\form-add-san-pham.html",
+              "RelativeToolTip": "TAB.Admin\\wwwroot\\doc\\form-add-san-pham.html",
+              "ViewState": "AQIAAJUBAAAAAAAAAAAMwK0BAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-04-04T11:32:47.246Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "TAB.Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-04T11:05:39.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T11:05:39.281Z"
             },
             {
               "$type": "Document",
