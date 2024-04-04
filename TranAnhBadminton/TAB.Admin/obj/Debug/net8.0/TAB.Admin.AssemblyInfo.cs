@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TAB.Admin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cd348fa30b91bd42426ed24326d257eeda09bd3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8139d97fef10afa63b34777073469822aa09eb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("TAB.Admin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TAB.Admin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
