@@ -15,6 +15,7 @@ namespace TAB.Data.Entities
         public string FullName { get; set; }
         public string Address { get; set; }
         public DateTime Dob { get; set; }
+        public string Password { get; set; }
         public string? Avatar { get; set; }
 
         public List<Cart> Carts { get; set; }

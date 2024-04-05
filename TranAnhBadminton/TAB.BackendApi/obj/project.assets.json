@@ -5342,19 +5342,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Duc Anh\\.nuget\\packages\\": {}
+    "C:\\Users\\Chau Anh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.BackendApi\\TAB.BackendApi.csproj",
+      "projectUniqueName": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.BackendApi\\TAB.BackendApi.csproj",
       "projectName": "TAB.BackendApi",
-      "projectPath": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.BackendApi\\TAB.BackendApi.csproj",
-      "packagesPath": "C:\\Users\\Duc Anh\\.nuget\\packages\\",
-      "outputPath": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.BackendApi\\obj\\",
+      "projectPath": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.BackendApi\\TAB.BackendApi.csproj",
+      "packagesPath": "C:\\Users\\Chau Anh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.BackendApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Duc Anh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Chau Anh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5368,17 +5368,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.App\\TAB.App.csproj": {
-              "projectPath": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.App\\TAB.App.csproj"
+            "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.App\\TAB.App.csproj": {
+              "projectPath": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.App\\TAB.App.csproj"
             },
-            "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Data\\TAB.Data.csproj": {
-              "projectPath": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Data\\TAB.Data.csproj"
+            "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Data\\TAB.Data.csproj": {
+              "projectPath": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Data\\TAB.Data.csproj"
             },
-            "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Ultilities\\TAB.Ultilities.csproj": {
-              "projectPath": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Ultilities\\TAB.Ultilities.csproj"
+            "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Ultilities\\TAB.Ultilities.csproj": {
+              "projectPath": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Ultilities\\TAB.Ultilities.csproj"
             },
-            "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.ViewModels\\TAB.ViewModels.csproj": {
-              "projectPath": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.ViewModels\\TAB.ViewModels.csproj"
+            "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.ViewModels\\TAB.ViewModels.csproj": {
+              "projectPath": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.ViewModels\\TAB.ViewModels.csproj"
             }
           }
         }
@@ -5454,7 +5454,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

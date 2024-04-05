@@ -22,3 +22,15 @@ D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\CSharp_Web_MVC\TranAnhBadminton\TAB.U
 D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\CSharp_Web_MVC\TranAnhBadminton\TAB.Ultilities\obj\Debug\net8.0\refint\TAB.Ultilities.dll
 D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\CSharp_Web_MVC\TranAnhBadminton\TAB.Ultilities\obj\Debug\net8.0\TAB.Ultilities.pdb
 D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\CSharp_Web_MVC\TranAnhBadminton\TAB.Ultilities\obj\Debug\net8.0\ref\TAB.Ultilities.dll
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Ultilities\bin\Debug\net8.0\TAB.Ultilities.deps.json
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Ultilities\bin\Debug\net8.0\TAB.Ultilities.dll
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Ultilities\bin\Debug\net8.0\TAB.Ultilities.pdb
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Ultilities\obj\Debug\net8.0\TAB.Ultilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Ultilities\obj\Debug\net8.0\TAB.Ultilities.AssemblyInfoInputs.cache
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Ultilities\obj\Debug\net8.0\TAB.Ultilities.AssemblyInfo.cs
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Ultilities\obj\Debug\net8.0\TAB.Ultilities.csproj.CoreCompileInputs.cache
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Ultilities\obj\Debug\net8.0\TAB.Ultilities.sourcelink.json
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Ultilities\obj\Debug\net8.0\TAB.Ultilities.dll
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Ultilities\obj\Debug\net8.0\refint\TAB.Ultilities.dll
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Ultilities\obj\Debug\net8.0\TAB.Ultilities.pdb
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Ultilities\obj\Debug\net8.0\ref\TAB.Ultilities.dll

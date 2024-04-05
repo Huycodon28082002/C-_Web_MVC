@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Duc Anh\\.nuget\\packages\\": {}
+    "C:\\Users\\Chau Anh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Ultilities\\TAB.Ultilities.csproj",
+      "projectUniqueName": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Ultilities\\TAB.Ultilities.csproj",
       "projectName": "TAB.Ultilities",
-      "projectPath": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Ultilities\\TAB.Ultilities.csproj",
-      "packagesPath": "C:\\Users\\Duc Anh\\.nuget\\packages\\",
-      "outputPath": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Ultilities\\obj\\",
+      "projectPath": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Ultilities\\TAB.Ultilities.csproj",
+      "packagesPath": "C:\\Users\\Chau Anh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Ultilities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Duc Anh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Chau Anh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

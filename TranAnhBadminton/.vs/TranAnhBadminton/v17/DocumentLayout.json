@@ -1,17 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\",
+  "WorkspaceRootPath": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71C55C00-4347-487A-B7AF-E66EBD0DEC9F}|TAB.Admin\\TAB.Admin.csproj|d:\\data\\hk2_nam_4\\dacn\\project\\source_code\\csharp_web_mvc\\trananhbadminton\\tab.admin\\wwwroot\\doc\\form-add-san-pham.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{10C6A3C3-4054-4865-953F-3C0A59520E09}|TAB.Data\\TAB.Data.csproj|c:\\users\\chau anh\\desktop\\dacn\\csharp_web_mvc\\trananhbadminton\\tab.data\\extensions\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C6A3C3-4054-4865-953F-3C0A59520E09}|TAB.Data\\TAB.Data.csproj|solutionrelative:tab.data\\extensions\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C6A3C3-4054-4865-953F-3C0A59520E09}|TAB.Data\\TAB.Data.csproj|c:\\users\\chau anh\\desktop\\dacn\\csharp_web_mvc\\trananhbadminton\\tab.data\\migrations\\20240405041456_installdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C6A3C3-4054-4865-953F-3C0A59520E09}|TAB.Data\\TAB.Data.csproj|solutionrelative:tab.data\\migrations\\20240405041456_installdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C6A3C3-4054-4865-953F-3C0A59520E09}|TAB.Data\\TAB.Data.csproj|c:\\users\\chau anh\\desktop\\dacn\\csharp_web_mvc\\trananhbadminton\\tab.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C6A3C3-4054-4865-953F-3C0A59520E09}|TAB.Data\\TAB.Data.csproj|solutionrelative:tab.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C6A3C3-4054-4865-953F-3C0A59520E09}|TAB.Data\\TAB.Data.csproj|c:\\users\\chau anh\\desktop\\dacn\\csharp_web_mvc\\trananhbadminton\\tab.data\\cofigurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C6A3C3-4054-4865-953F-3C0A59520E09}|TAB.Data\\TAB.Data.csproj|solutionrelative:tab.data\\cofigurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C55C00-4347-487A-B7AF-E66EBD0DEC9F}|TAB.Admin\\TAB.Admin.csproj|c:\\users\\chau anh\\desktop\\dacn\\csharp_web_mvc\\trananhbadminton\\tab.admin\\wwwroot\\doc\\form-add-san-pham.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71C55C00-4347-487A-B7AF-E66EBD0DEC9F}|TAB.Admin\\TAB.Admin.csproj|solutionrelative:tab.admin\\wwwroot\\doc\\form-add-san-pham.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C55C00-4347-487A-B7AF-E66EBD0DEC9F}|TAB.Admin\\TAB.Admin.csproj|d:\\data\\hk2_nam_4\\dacn\\project\\source_code\\csharp_web_mvc\\trananhbadminton\\tab.admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{71C55C00-4347-487A-B7AF-E66EBD0DEC9F}|TAB.Admin\\TAB.Admin.csproj|c:\\users\\chau anh\\desktop\\dacn\\csharp_web_mvc\\trananhbadminton\\tab.admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71C55C00-4347-487A-B7AF-E66EBD0DEC9F}|TAB.Admin\\TAB.Admin.csproj|solutionrelative:tab.admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C55C00-4347-487A-B7AF-E66EBD0DEC9F}|TAB.Admin\\TAB.Admin.csproj|d:\\data\\hk2_nam_4\\dacn\\project\\source_code\\csharp_web_mvc\\trananhbadminton\\tab.admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{71C55C00-4347-487A-B7AF-E66EBD0DEC9F}|TAB.Admin\\TAB.Admin.csproj|c:\\users\\chau anh\\desktop\\dacn\\csharp_web_mvc\\trananhbadminton\\tab.admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71C55C00-4347-487A-B7AF-E66EBD0DEC9F}|TAB.Admin\\TAB.Admin.csproj|solutionrelative:tab.admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -22,40 +38,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240405041456_InstallDB.cs",
+              "DocumentMoniker": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Data\\Migrations\\20240405041456_InstallDB.cs",
+              "RelativeDocumentMoniker": "TAB.Data\\Migrations\\20240405041456_InstallDB.cs",
+              "ToolTip": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Data\\Migrations\\20240405041456_InstallDB.cs",
+              "RelativeToolTip": "TAB.Data\\Migrations\\20240405041456_InstallDB.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAmwMoAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:14:56.71Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ModelBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Data\\Extensions\\ModelBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "TAB.Data\\Extensions\\ModelBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Data\\Extensions\\ModelBuilderExtensions.cs",
+              "RelativeToolTip": "TAB.Data\\Extensions\\ModelBuilderExtensions.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAmwIIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:13:40.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Data\\Cofigurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "TAB.Data\\Cofigurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Data\\Cofigurations\\UserConfiguration.cs",
+              "RelativeToolTip": "TAB.Data\\Cofigurations\\UserConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:11:33.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TAB.Data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Data\\Entities\\User.cs",
+              "RelativeToolTip": "TAB.Data\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T04:11:12.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "form-add-san-pham.html",
-              "DocumentMoniker": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\wwwroot\\doc\\form-add-san-pham.html",
+              "DocumentMoniker": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\wwwroot\\doc\\form-add-san-pham.html",
               "RelativeDocumentMoniker": "TAB.Admin\\wwwroot\\doc\\form-add-san-pham.html",
-              "ToolTip": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\wwwroot\\doc\\form-add-san-pham.html",
+              "ToolTip": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\wwwroot\\doc\\form-add-san-pham.html",
               "RelativeToolTip": "TAB.Admin\\wwwroot\\doc\\form-add-san-pham.html",
-              "ViewState": "AQIAAJUBAAAAAAAAAAAMwK0BAABCAAAA",
+              "ViewState": "AQIAAJUBAAAAAAAAAAAMwK0BAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-04-04T11:32:47.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TAB.Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "TAB.Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -63,29 +119,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "TAB.Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Chau Anh\\Desktop\\DACN\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "TAB.Admin\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-04T11:05:34.571Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 100,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

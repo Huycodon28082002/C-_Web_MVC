@@ -127,19 +127,20 @@ namespace TAB.Data.Extensions
                 {
                     Id = adminId,
                     UserName = "admin",
-                    NormalizedUserName = "admin",
+                    Password = "Ducanh1412",
+                    //NormalizedUserName = "admin",
                     Email = "kudoshinichi2804@gmail.com",
-                    NormalizedEmail = "kudoshinichi2804@gmail.com",
-                    EmailConfirmed = true,
-                    PasswordHash = hasher.HashPassword(null, "1"),
-                    SecurityStamp = string.Empty,
+                    //NormalizedEmail = "kudoshinichi2804@gmail.com",
+                    //EmailConfirmed = true,
+                    PasswordHash = hasher.HashPassword(null, "Ducanh1412"),
+                    //SecurityStamp = string.Empty,
                     FullName = "Kudo Shinichi",
                     Dob = new DateTime(2020, 01, 31),
                     PhoneNumber = "0932690343",
                     Address = "26 Lam Hoanh, P.An Lac, Q.Binh Tan, TP.HCM",
                     Avatar = "https://scontent.fsgn5-3.fna.fbcdn.net/v/t1.15752-9/430866613_945496816974002_8073114596546427994_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qNpNZ_y0TdUAX_b6ZGV&_nc_ht=scontent.fsgn5-3.fna&oh=03_AdTVWK9bgUw9-VtEDmnB6EwpiryBn-4iRLRBzGIEflDOcw&oe=662232AA",
-                    PhoneNumberConfirmed = true,
-                    AccessFailedCount = 0,
+                    //PhoneNumberConfirmed = true,
+                    //AccessFailedCount = 0,
                 }
             );
 

@@ -30,3 +30,19 @@ D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\CSharp_Web_MVC\TranAnhBadminton\TAB.V
 D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\CSharp_Web_MVC\TranAnhBadminton\TAB.ViewModels\bin\Debug\net8.0\TAB.Data.pdb
 D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\CSharp_Web_MVC\TranAnhBadminton\TAB.ViewModels\obj\Debug\net8.0\TAB.View.08EE846A.Up2Date
 D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\CSharp_Web_MVC\TranAnhBadminton\TAB.ViewModels\obj\Debug\net8.0\ref\TAB.ViewModels.dll
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.ViewModels\bin\Debug\net8.0\TAB.ViewModels.deps.json
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.ViewModels\bin\Debug\net8.0\TAB.ViewModels.dll
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.ViewModels\bin\Debug\net8.0\TAB.ViewModels.pdb
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.ViewModels\bin\Debug\net8.0\TAB.Data.dll
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.ViewModels\bin\Debug\net8.0\TAB.Data.pdb
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.ViewModels\obj\Debug\net8.0\TAB.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.ViewModels\obj\Debug\net8.0\TAB.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.ViewModels\obj\Debug\net8.0\TAB.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.ViewModels\obj\Debug\net8.0\TAB.ViewModels.AssemblyInfo.cs
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.ViewModels\obj\Debug\net8.0\TAB.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.ViewModels\obj\Debug\net8.0\TAB.ViewModels.sourcelink.json
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.ViewModels\obj\Debug\net8.0\TAB.View.08EE846A.Up2Date
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.ViewModels\obj\Debug\net8.0\TAB.ViewModels.dll
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.ViewModels\obj\Debug\net8.0\refint\TAB.ViewModels.dll
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.ViewModels\obj\Debug\net8.0\TAB.ViewModels.pdb
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.ViewModels\obj\Debug\net8.0\ref\TAB.ViewModels.dll

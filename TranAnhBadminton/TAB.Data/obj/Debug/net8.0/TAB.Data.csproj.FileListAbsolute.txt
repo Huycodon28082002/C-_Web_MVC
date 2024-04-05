@@ -28,3 +28,18 @@ D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\CSharp_Web_MVC\TranAnhBadminton\TAB.D
 D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\CSharp_Web_MVC\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\TAB.Data.pdb
 D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\CSharp_Web_MVC\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\TAB.Data.genruntimeconfig.cache
 D:\DATA\HK2_Nam_4\DACN\Project\Source_Code\CSharp_Web_MVC\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\ref\TAB.Data.dll
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Data\bin\Debug\net8.0\TAB.Data.deps.json
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Data\bin\Debug\net8.0\TAB.Data.runtimeconfig.json
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Data\bin\Debug\net8.0\TAB.Data.dll
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Data\bin\Debug\net8.0\TAB.Data.pdb
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\TAB.Data.csproj.AssemblyReference.cache
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\TAB.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\TAB.Data.AssemblyInfoInputs.cache
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\TAB.Data.AssemblyInfo.cs
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\TAB.Data.csproj.CoreCompileInputs.cache
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\TAB.Data.sourcelink.json
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\TAB.Data.dll
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\refint\TAB.Data.dll
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\TAB.Data.pdb
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\TAB.Data.genruntimeconfig.cache
+C:\Users\Chau Anh\Desktop\DACN\CSharp_Web_MVC\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\ref\TAB.Data.dll

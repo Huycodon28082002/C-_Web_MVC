@@ -185,21 +185,22 @@ namespace TAB.Data.Migrations
                     FullName = table.Column<string>(type: "nvarchar(200)", maxLength: 200, nullable: false),
                     Address = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Dob = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    Password = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Avatar = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    UserName = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    UserName = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     NormalizedUserName = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Email = table.Column<string>(type: "nvarchar(200)", maxLength: 200, nullable: false),
                     NormalizedEmail = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    EmailConfirmed = table.Column<bool>(type: "bit", nullable: false),
+                    EmailConfirmed = table.Column<bool>(type: "bit", nullable: true),
                     PasswordHash = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     SecurityStamp = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     ConcurrencyStamp = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    PhoneNumber = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    PhoneNumberConfirmed = table.Column<bool>(type: "bit", nullable: false),
-                    TwoFactorEnabled = table.Column<bool>(type: "bit", nullable: false),
+                    PhoneNumber = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    PhoneNumberConfirmed = table.Column<bool>(type: "bit", nullable: true),
+                    TwoFactorEnabled = table.Column<bool>(type: "bit", nullable: true),
                     LockoutEnd = table.Column<DateTimeOffset>(type: "datetimeoffset", nullable: true),
-                    LockoutEnabled = table.Column<bool>(type: "bit", nullable: false),
-                    AccessFailedCount = table.Column<int>(type: "int", nullable: false)
+                    LockoutEnabled = table.Column<bool>(type: "bit", nullable: true),
+                    AccessFailedCount = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -502,8 +503,8 @@ namespace TAB.Data.Migrations
 
             migrationBuilder.InsertData(
                 table: "Users",
-                columns: new[] { "Id", "AccessFailedCount", "Address", "Avatar", "ConcurrencyStamp", "Dob", "Email", "EmailConfirmed", "FullName", "LockoutEnabled", "LockoutEnd", "NormalizedEmail", "NormalizedUserName", "PasswordHash", "PhoneNumber", "PhoneNumberConfirmed", "SecurityStamp", "TwoFactorEnabled", "UserName" },
-                values: new object[] { new Guid("69bd714f-9576-45ba-b5b7-f00649be00de"), 0, "26 Lam Hoanh, P.An Lac, Q.Binh Tan, TP.HCM", "https://scontent.fsgn5-3.fna.fbcdn.net/v/t1.15752-9/430866613_945496816974002_8073114596546427994_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qNpNZ_y0TdUAX_b6ZGV&_nc_ht=scontent.fsgn5-3.fna&oh=03_AdTVWK9bgUw9-VtEDmnB6EwpiryBn-4iRLRBzGIEflDOcw&oe=662232AA", "d06028bf-8925-4bc2-8be7-fb963e04223a", new DateTime(2020, 1, 31, 0, 0, 0, 0, DateTimeKind.Unspecified), "kudoshinichi2804@gmail.com", true, "Kudo Shinichi", false, null, "kudoshinichi2804@gmail.com", "admin", "AQAAAAIAAYagAAAAELro1+IUJ8JICaGcSppy9I670x/V6+Ov1+8RgujMk8TN6ftG5rpuLzmqZDYgJefP6w==", "0932690343", true, "", false, "admin" });
+                columns: new[] { "Id", "AccessFailedCount", "Address", "Avatar", "ConcurrencyStamp", "Dob", "Email", "EmailConfirmed", "FullName", "LockoutEnabled", "LockoutEnd", "NormalizedEmail", "NormalizedUserName", "Password", "PasswordHash", "PhoneNumber", "PhoneNumberConfirmed", "SecurityStamp", "TwoFactorEnabled", "UserName" },
+                values: new object[] { new Guid("69bd714f-9576-45ba-b5b7-f00649be00de"), 0, "26 Lam Hoanh, P.An Lac, Q.Binh Tan, TP.HCM", "https://scontent.fsgn5-3.fna.fbcdn.net/v/t1.15752-9/430866613_945496816974002_8073114596546427994_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qNpNZ_y0TdUAX_b6ZGV&_nc_ht=scontent.fsgn5-3.fna&oh=03_AdTVWK9bgUw9-VtEDmnB6EwpiryBn-4iRLRBzGIEflDOcw&oe=662232AA", "826dc673-92e7-4c44-a5f4-0571a67d7844", new DateTime(2020, 1, 31, 0, 0, 0, 0, DateTimeKind.Unspecified), "kudoshinichi2804@gmail.com", true, "Kudo Shinichi", false, null, "kudoshinichi2804@gmail.com", "admin", "Ducanh1412", "AQAAAAIAAYagAAAAEBIIVXVe72He68vXt2jIs6+PcFIWlogbPkC6T6A2fGzB/o9MXN473U91/jePkMW8XA==", "0932690343", true, "", false, "admin" });
 
             migrationBuilder.InsertData(
                 table: "Categories",
@@ -519,8 +520,8 @@ namespace TAB.Data.Migrations
                 columns: new[] { "ProductId", "CategoryIds", "DateCreated", "Description", "IsFeatured", "OriginalPrice", "Price", "ProductImage", "ProductName" },
                 values: new object[,]
                 {
-                    { 1, 1, new DateTime(2024, 3, 28, 19, 47, 37, 579, DateTimeKind.Local).AddTicks(4816), "Vợt thiên công nặng đầu 3U", null, 700000m, 790000m, "", "Vợt cầu lông VNB TC88C" },
-                    { 2, 1, new DateTime(2024, 3, 28, 19, 47, 37, 579, DateTimeKind.Local).AddTicks(4841), "Vợt thiên công nặng đầu 3U", null, 700000m, 790000m, "", "Vợt cầu lông VNB TC88B" }
+                    { 1, 1, new DateTime(2024, 4, 5, 11, 14, 56, 257, DateTimeKind.Local).AddTicks(9862), "Vợt thiên công nặng đầu 3U", null, 700000m, 790000m, "", "Vợt cầu lông VNB TC88C" },
+                    { 2, 1, new DateTime(2024, 4, 5, 11, 14, 56, 257, DateTimeKind.Local).AddTicks(9883), "Vợt thiên công nặng đầu 3U", null, 700000m, 790000m, "", "Vợt cầu lông VNB TC88B" }
                 });
 
             migrationBuilder.CreateIndex(

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TAB.ViewModels")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ced345e93c0ee5e8946caf7a6857ff3a326c0f65")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08f8183fa4a360421699fe0cd3617dbbe6924b61")]
 [assembly: System.Reflection.AssemblyProductAttribute("TAB.ViewModels")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TAB.ViewModels")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

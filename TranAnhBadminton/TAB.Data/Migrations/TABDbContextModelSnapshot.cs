@@ -495,7 +495,7 @@ namespace TAB.Data.Migrations
                         {
                             ProductId = 1,
                             CategoryIds = 1,
-                            DateCreated = new DateTime(2024, 3, 28, 19, 47, 37, 579, DateTimeKind.Local).AddTicks(4816),
+                            DateCreated = new DateTime(2024, 4, 5, 11, 14, 56, 257, DateTimeKind.Local).AddTicks(9862),
                             Description = "Vợt thiên công nặng đầu 3U",
                             OriginalPrice = 700000m,
                             Price = 790000m,
@@ -508,7 +508,7 @@ namespace TAB.Data.Migrations
                         {
                             ProductId = 2,
                             CategoryIds = 1,
-                            DateCreated = new DateTime(2024, 3, 28, 19, 47, 37, 579, DateTimeKind.Local).AddTicks(4841),
+                            DateCreated = new DateTime(2024, 4, 5, 11, 14, 56, 257, DateTimeKind.Local).AddTicks(9883),
                             Description = "Vợt thiên công nặng đầu 3U",
                             OriginalPrice = 700000m,
                             Price = 790000m,
@@ -819,6 +819,10 @@ namespace TAB.Data.Migrations
                     b.Property<string>("NormalizedUserName")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Password")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("PasswordHash")
                         .HasColumnType("nvarchar(max)");
 
@@ -848,7 +852,7 @@ namespace TAB.Data.Migrations
                             AccessFailedCount = 0,
                             Address = "26 Lam Hoanh, P.An Lac, Q.Binh Tan, TP.HCM",
                             Avatar = "https://scontent.fsgn5-3.fna.fbcdn.net/v/t1.15752-9/430866613_945496816974002_8073114596546427994_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qNpNZ_y0TdUAX_b6ZGV&_nc_ht=scontent.fsgn5-3.fna&oh=03_AdTVWK9bgUw9-VtEDmnB6EwpiryBn-4iRLRBzGIEflDOcw&oe=662232AA",
-                            ConcurrencyStamp = "d06028bf-8925-4bc2-8be7-fb963e04223a",
+                            ConcurrencyStamp = "826dc673-92e7-4c44-a5f4-0571a67d7844",
                             Dob = new DateTime(2020, 1, 31, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Email = "kudoshinichi2804@gmail.com",
                             EmailConfirmed = true,
@@ -856,7 +860,8 @@ namespace TAB.Data.Migrations
                             LockoutEnabled = false,
                             NormalizedEmail = "kudoshinichi2804@gmail.com",
                             NormalizedUserName = "admin",
-                            PasswordHash = "AQAAAAIAAYagAAAAELro1+IUJ8JICaGcSppy9I670x/V6+Ov1+8RgujMk8TN6ftG5rpuLzmqZDYgJefP6w==",
+                            Password = "Ducanh1412",
+                            PasswordHash = "AQAAAAIAAYagAAAAEBIIVXVe72He68vXt2jIs6+PcFIWlogbPkC6T6A2fGzB/o9MXN473U91/jePkMW8XA==",
                             PhoneNumber = "0932690343",
                             PhoneNumberConfirmed = true,
                             SecurityStamp = "",
