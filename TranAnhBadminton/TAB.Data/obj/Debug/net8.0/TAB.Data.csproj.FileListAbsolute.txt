@@ -42,3 +42,4 @@ C:\Users\ad\Downloads\CSharp_Web_MVC-master\CSharp_Web_MVC-master\TranAnhBadmint
 C:\Users\ad\Downloads\CSharp_Web_MVC-master\CSharp_Web_MVC-master\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\TAB.Data.pdb
 C:\Users\ad\Downloads\CSharp_Web_MVC-master\CSharp_Web_MVC-master\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\TAB.Data.genruntimeconfig.cache
 C:\Users\ad\Downloads\CSharp_Web_MVC-master\CSharp_Web_MVC-master\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\ref\TAB.Data.dll
+C:\Users\ad\Downloads\CSharp_Web_MVC-master\CSharp_Web_MVC-master\TranAnhBadminton\TAB.Data\obj\Debug\net8.0\TAB.Data.sourcelink.json

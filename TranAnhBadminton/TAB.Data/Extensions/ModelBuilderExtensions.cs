@@ -127,6 +127,7 @@ namespace TAB.Data.Extensions
                 {
                     Id = adminId,
                     UserName = "admin",
+                    Password = "1",
                     NormalizedUserName = "admin",
                     Email = "kudoshinichi2804@gmail.com",
                     NormalizedEmail = "kudoshinichi2804@gmail.com",

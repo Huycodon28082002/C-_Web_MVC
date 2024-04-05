@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A21A735E-70CE-4FD8-8F7D-14939AEEDB09}|TAB.ViewModels\\TAB.ViewModels.csproj|c:\\users\\ad\\downloads\\csharp_web_mvc-master\\csharp_web_mvc-master\\trananhbadminton\\tab.viewmodels\\system\\users\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A21A735E-70CE-4FD8-8F7D-14939AEEDB09}|TAB.ViewModels\\TAB.ViewModels.csproj|solutionrelative:tab.viewmodels\\system\\users\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A21A735E-70CE-4FD8-8F7D-14939AEEDB09}|TAB.ViewModels\\TAB.ViewModels.csproj|c:\\users\\ad\\downloads\\csharp_web_mvc-master\\csharp_web_mvc-master\\trananhbadminton\\tab.viewmodels\\system\\users\\registerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A21A735E-70CE-4FD8-8F7D-14939AEEDB09}|TAB.ViewModels\\TAB.ViewModels.csproj|solutionrelative:tab.viewmodels\\system\\users\\registerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14080C2C-E3E9-4764-86EB-BEFD19BF5B82}|TAB.Web\\TAB.Web.csproj|c:\\users\\ad\\downloads\\csharp_web_mvc-master\\csharp_web_mvc-master\\trananhbadminton\\tab.web\\tab.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{14080C2C-E3E9-4764-86EB-BEFD19BF5B82}|TAB.Web\\TAB.Web.csproj|solutionrelative:tab.web\\tab.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A21A735E-70CE-4FD8-8F7D-14939AEEDB09}|TAB.ViewModels\\TAB.ViewModels.csproj|c:\\users\\ad\\downloads\\csharp_web_mvc-master\\csharp_web_mvc-master\\trananhbadminton\\tab.viewmodels\\system\\users\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21A735E-70CE-4FD8-8F7D-14939AEEDB09}|TAB.ViewModels\\TAB.ViewModels.csproj|solutionrelative:tab.viewmodels\\system\\users\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A21A735E-70CE-4FD8-8F7D-14939AEEDB09}|TAB.ViewModels\\TAB.ViewModels.csproj|c:\\users\\ad\\downloads\\csharp_web_mvc-master\\csharp_web_mvc-master\\trananhbadminton\\tab.viewmodels\\system\\users\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A21A735E-70CE-4FD8-8F7D-14939AEEDB09}|TAB.ViewModels\\TAB.ViewModels.csproj|solutionrelative:tab.viewmodels\\system\\users\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C6A3C3-4054-4865-953F-3C0A59520E09}|TAB.Data\\TAB.Data.csproj|c:\\users\\ad\\downloads\\csharp_web_mvc-master\\csharp_web_mvc-master\\trananhbadminton\\tab.data\\extensions\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C6A3C3-4054-4865-953F-3C0A59520E09}|TAB.Data\\TAB.Data.csproj|solutionrelative:tab.data\\extensions\\modelbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C6A3C3-4054-4865-953F-3C0A59520E09}|TAB.Data\\TAB.Data.csproj|c:\\users\\ad\\downloads\\csharp_web_mvc-master\\csharp_web_mvc-master\\trananhbadminton\\tab.data\\cofigurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C6A3C3-4054-4865-953F-3C0A59520E09}|TAB.Data\\TAB.Data.csproj|solutionrelative:tab.data\\cofigurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0450C92C-A39D-4D2D-85EB-18DD2BBB2373}|TAB.App\\TAB.App.csproj|c:\\users\\ad\\downloads\\csharp_web_mvc-master\\csharp_web_mvc-master\\trananhbadminton\\tab.app\\system\\interfaceuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0450C92C-A39D-4D2D-85EB-18DD2BBB2373}|TAB.App\\TAB.App.csproj|solutionrelative:tab.app\\system\\interfaceuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0450C92C-A39D-4D2D-85EB-18DD2BBB2373}|TAB.App\\TAB.App.csproj|c:\\users\\ad\\downloads\\csharp_web_mvc-master\\csharp_web_mvc-master\\trananhbadminton\\tab.app\\system\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0450C92C-A39D-4D2D-85EB-18DD2BBB2373}|TAB.App\\TAB.App.csproj|solutionrelative:tab.app\\system\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F9933A-8033-4680-827A-98EF8CC761AB}|TAB.BackendApi\\TAB.BackendApi.csproj|c:\\users\\ad\\downloads\\csharp_web_mvc-master\\csharp_web_mvc-master\\trananhbadminton\\tab.backendapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F9933A-8033-4680-827A-98EF8CC761AB}|TAB.BackendApi\\TAB.BackendApi.csproj|solutionrelative:tab.backendapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C6A3C3-4054-4865-953F-3C0A59520E09}|TAB.Data\\TAB.Data.csproj|c:\\users\\ad\\downloads\\csharp_web_mvc-master\\csharp_web_mvc-master\\trananhbadminton\\tab.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C6A3C3-4054-4865-953F-3C0A59520E09}|TAB.Data\\TAB.Data.csproj|solutionrelative:tab.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F9933A-8033-4680-827A-98EF8CC761AB}|TAB.BackendApi\\TAB.BackendApi.csproj|c:\\users\\ad\\downloads\\csharp_web_mvc-master\\csharp_web_mvc-master\\trananhbadminton\\tab.backendapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F9933A-8033-4680-827A-98EF8CC761AB}|TAB.BackendApi\\TAB.BackendApi.csproj|solutionrelative:tab.backendapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14080C2C-E3E9-4764-86EB-BEFD19BF5B82}|TAB.Web\\TAB.Web.csproj|c:\\users\\ad\\downloads\\csharp_web_mvc-master\\csharp_web_mvc-master\\trananhbadminton\\tab.web\\tab.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14080C2C-E3E9-4764-86EB-BEFD19BF5B82}|TAB.Web\\TAB.Web.csproj|solutionrelative:tab.web\\tab.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,20 +54,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.ViewModels\\System\\Users\\LoginRequest.cs",
               "RelativeDocumentMoniker": "TAB.ViewModels\\System\\Users\\LoginRequest.cs",
               "ToolTip": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.ViewModels\\System\\Users\\LoginRequest.cs",
               "RelativeToolTip": "TAB.ViewModels\\System\\Users\\LoginRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T04:30:53.003Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -47,7 +76,117 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.Data\\Cofigurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "TAB.Data\\Cofigurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.Data\\Cofigurations\\UserConfiguration.cs",
+              "RelativeToolTip": "TAB.Data\\Cofigurations\\UserConfiguration.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:59:14.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.BackendApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TAB.BackendApi\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.BackendApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TAB.BackendApi\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:52:23.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.ViewModels\\System\\Users\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "TAB.ViewModels\\System\\Users\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.ViewModels\\System\\Users\\RegisterRequest.cs",
+              "RelativeToolTip": "TAB.ViewModels\\System\\Users\\RegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T07:20:14.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.App\\System\\UserService.cs",
+              "RelativeDocumentMoniker": "TAB.App\\System\\UserService.cs",
+              "ToolTip": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.App\\System\\UserService.cs",
+              "RelativeToolTip": "TAB.App\\System\\UserService.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwEoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:43:41.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InterfaceUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.App\\System\\InterfaceUserService.cs",
+              "RelativeDocumentMoniker": "TAB.App\\System\\InterfaceUserService.cs",
+              "ToolTip": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.App\\System\\InterfaceUserService.cs",
+              "RelativeToolTip": "TAB.App\\System\\InterfaceUserService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAWwA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:44:10.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.ViewModels\\System\\Users\\RegisterRequestValidator.cs",
+              "RelativeDocumentMoniker": "TAB.ViewModels\\System\\Users\\RegisterRequestValidator.cs",
+              "ToolTip": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.ViewModels\\System\\Users\\RegisterRequestValidator.cs",
+              "RelativeToolTip": "TAB.ViewModels\\System\\Users\\RegisterRequestValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T05:15:15.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModelBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.Data\\Extensions\\ModelBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "TAB.Data\\Extensions\\ModelBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.Data\\Extensions\\ModelBuilderExtensions.cs",
+              "RelativeToolTip": "TAB.Data\\Extensions\\ModelBuilderExtensions.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAAAIEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:03:33.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TAB.Data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.Data\\Entities\\User.cs",
+              "RelativeToolTip": "TAB.Data\\Entities\\User.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:00:00.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.BackendApi\\Startup.cs",
+              "RelativeDocumentMoniker": "TAB.BackendApi\\Startup.cs",
+              "ToolTip": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.BackendApi\\Startup.cs",
+              "RelativeToolTip": "TAB.BackendApi\\Startup.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:45:27.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "TAB.Web.csproj",
               "DocumentMoniker": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.Web\\TAB.Web.csproj",
               "RelativeDocumentMoniker": "TAB.Web\\TAB.Web.csproj",
@@ -56,31 +195,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-04T08:04:13.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegisterRequest.cs",
-              "DocumentMoniker": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.ViewModels\\System\\Users\\RegisterRequest.cs",
-              "RelativeDocumentMoniker": "TAB.ViewModels\\System\\Users\\RegisterRequest.cs",
-              "ToolTip": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.ViewModels\\System\\Users\\RegisterRequest.cs",
-              "RelativeToolTip": "TAB.ViewModels\\System\\Users\\RegisterRequest.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T07:20:14.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegisterRequestValidator.cs",
-              "DocumentMoniker": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.ViewModels\\System\\Users\\RegisterRequestValidator.cs",
-              "RelativeDocumentMoniker": "TAB.ViewModels\\System\\Users\\RegisterRequestValidator.cs",
-              "ToolTip": "C:\\Users\\ad\\Downloads\\CSharp_Web_MVC-master\\CSharp_Web_MVC-master\\TranAnhBadminton\\TAB.ViewModels\\System\\Users\\RegisterRequestValidator.cs",
-              "RelativeToolTip": "TAB.ViewModels\\System\\Users\\RegisterRequestValidator.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwA4AAABaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T05:15:15.53Z"
             }
           ]
         }

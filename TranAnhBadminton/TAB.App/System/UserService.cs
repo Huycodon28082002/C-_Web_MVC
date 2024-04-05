@@ -72,6 +72,7 @@ namespace TAB.App.System
                 UserName = request.UserName,
                 PhoneNumber = request.PhoneNumber,
                 Address = request.Address,
+                Password = request.Password,
             };
 
             var result = await _userManager.CreateAsync(user, request.Password);

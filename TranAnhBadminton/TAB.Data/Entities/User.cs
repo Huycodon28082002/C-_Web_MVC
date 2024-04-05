@@ -24,6 +24,7 @@ namespace TAB.Data.Entities
         public List<Transaction> Transactions { get; set; }
 
         public List<Bill> Bills { get; set; }
+        public string Password { get; set; }
     }
 
     public interface IEntityUser<T>

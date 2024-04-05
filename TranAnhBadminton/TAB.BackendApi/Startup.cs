@@ -50,7 +50,7 @@ namespace TAB.BackendApi
 
             services.AddTransient<InterfaceBillService, BillService>();
             services.AddTransient<InterfaceBrandService, BrandService>();
-
+            services.AddTransient<InterfaceUserService, UserService>();
             // Đăng ký dịch vụ UserService
             //services.AddTransient<InterfaceUserService, UserService>();
             //services.AddTransient<IVaildator<LoginRequest>, LoginRequestValidator>()

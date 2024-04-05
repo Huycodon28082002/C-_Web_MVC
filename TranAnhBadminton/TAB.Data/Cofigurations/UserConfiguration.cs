@@ -20,6 +20,8 @@ namespace TAB.Data.Configurations
             builder.Property(x => x.Email).IsRequired().HasMaxLength(200);
             builder.Property(x => x.Address);
             builder.Property(x => x.Avatar);
+            builder.Property(x => x.Password).IsRequired();
+
             // builder.Property(x => x.PhoneNumber).IsRequired().HasMaxLength(11);
             builder.Property(x => x.FullName).IsRequired().HasMaxLength(200);
 
