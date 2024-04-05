@@ -279,3 +279,4 @@ C:\Users\ad\Downloads\CSharp_Web_MVC-master\CSharp_Web_MVC-master\TranAnhBadmint
 C:\Users\ad\Downloads\CSharp_Web_MVC-master\CSharp_Web_MVC-master\TranAnhBadminton\TAB.BackendApi\obj\Debug\net8.0\TAB.Back.4D1598B7.Up2Date
 C:\Users\ad\Downloads\CSharp_Web_MVC-master\CSharp_Web_MVC-master\TranAnhBadminton\TAB.BackendApi\obj\Debug\net8.0\TAB.BackendApi.genruntimeconfig.cache
 C:\Users\ad\Downloads\CSharp_Web_MVC-master\CSharp_Web_MVC-master\TranAnhBadminton\TAB.BackendApi\obj\Debug\net8.0\ref\TAB.BackendApi.dll
+C:\Users\ad\Downloads\CSharp_Web_MVC-master\CSharp_Web_MVC-master\TranAnhBadminton\TAB.BackendApi\obj\Debug\net8.0\TAB.BackendApi.sourcelink.json

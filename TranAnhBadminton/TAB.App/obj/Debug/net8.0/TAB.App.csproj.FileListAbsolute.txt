@@ -57,3 +57,4 @@ C:\Users\ad\Downloads\CSharp_Web_MVC-master\CSharp_Web_MVC-master\TranAnhBadmint
 C:\Users\ad\Downloads\CSharp_Web_MVC-master\CSharp_Web_MVC-master\TranAnhBadminton\TAB.App\obj\Debug\net8.0\refint\TAB.App.dll
 C:\Users\ad\Downloads\CSharp_Web_MVC-master\CSharp_Web_MVC-master\TranAnhBadminton\TAB.App\obj\Debug\net8.0\TAB.App.pdb
 C:\Users\ad\Downloads\CSharp_Web_MVC-master\CSharp_Web_MVC-master\TranAnhBadminton\TAB.App\obj\Debug\net8.0\ref\TAB.App.dll
+C:\Users\ad\Downloads\CSharp_Web_MVC-master\CSharp_Web_MVC-master\TranAnhBadminton\TAB.App\obj\Debug\net8.0\TAB.App.sourcelink.json

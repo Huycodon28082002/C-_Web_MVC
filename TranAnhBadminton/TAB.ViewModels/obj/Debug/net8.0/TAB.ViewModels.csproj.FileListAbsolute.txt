@@ -45,3 +45,4 @@ C:\Users\ad\Downloads\CSharp_Web_MVC-master\CSharp_Web_MVC-master\TranAnhBadmint
 C:\Users\ad\Downloads\CSharp_Web_MVC-master\CSharp_Web_MVC-master\TranAnhBadminton\TAB.ViewModels\bin\Debug\net8.0\TAB.Data.pdb
 C:\Users\ad\Downloads\CSharp_Web_MVC-master\CSharp_Web_MVC-master\TranAnhBadminton\TAB.ViewModels\obj\Debug\net8.0\TAB.View.08EE846A.Up2Date
 C:\Users\ad\Downloads\CSharp_Web_MVC-master\CSharp_Web_MVC-master\TranAnhBadminton\TAB.ViewModels\obj\Debug\net8.0\ref\TAB.ViewModels.dll
+C:\Users\ad\Downloads\CSharp_Web_MVC-master\CSharp_Web_MVC-master\TranAnhBadminton\TAB.ViewModels\obj\Debug\net8.0\TAB.ViewModels.sourcelink.json
