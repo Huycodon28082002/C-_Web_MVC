@@ -8,6 +8,9 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using FluentValidation.AspNetCore;
+using TAB.ViewModels.System.Users;
+using TAB.Admin.Services;
 
 
 namespace TAB.Admin
@@ -20,12 +23,26 @@ namespace TAB.Admin
         }
 
         public IConfiguration Configuration { get; }
+
+
         
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-           services.AddControllersWithViews();
+           services.AddControllersWithViews()
+                .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<LoginRequestValidator>());
+
+            services.AddTransient<InterfaceUserApiClient, UserApiClient>();
+            services.AddHttpClient();
+
+            IMvcBuilder builder = services.AddRazorPages();
+            var enviroment = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
+            #if DEBUG
+            if (enviroment == Environments.Development)
+                builder.AddRazorRuntimeCompilation();
+            #endif
+
         }
 
 
