@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71C55C00-4347-487A-B7AF-E66EBD0DEC9F}|TAB.Admin\\TAB.Admin.csproj|d:\\data\\hk2_nam_4\\dacn\\project\\source_code\\csharp_web_mvc\\trananhbadminton\\tab.admin\\wwwroot\\doc\\form-add-san-pham.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{71C55C00-4347-487A-B7AF-E66EBD0DEC9F}|TAB.Admin\\TAB.Admin.csproj|solutionrelative:tab.admin\\wwwroot\\doc\\form-add-san-pham.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{71C55C00-4347-487A-B7AF-E66EBD0DEC9F}|TAB.Admin\\TAB.Admin.csproj|d:\\data\\hk2_nam_4\\dacn\\project\\source_code\\csharp_web_mvc\\trananhbadminton\\tab.admin\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71C55C00-4347-487A-B7AF-E66EBD0DEC9F}|TAB.Admin\\TAB.Admin.csproj|solutionrelative:tab.admin\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C55C00-4347-487A-B7AF-E66EBD0DEC9F}|TAB.Admin\\TAB.Admin.csproj|d:\\data\\hk2_nam_4\\dacn\\project\\source_code\\csharp_web_mvc\\trananhbadminton\\tab.admin\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{71C55C00-4347-487A-B7AF-E66EBD0DEC9F}|TAB.Admin\\TAB.Admin.csproj|solutionrelative:tab.admin\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71C55C00-4347-487A-B7AF-E66EBD0DEC9F}|TAB.Admin\\TAB.Admin.csproj|d:\\data\\hk2_nam_4\\dacn\\project\\source_code\\csharp_web_mvc\\trananhbadminton\\tab.admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71C55C00-4347-487A-B7AF-E66EBD0DEC9F}|TAB.Admin\\TAB.Admin.csproj|solutionrelative:tab.admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71C55C00-4347-487A-B7AF-E66EBD0DEC9F}|TAB.Admin\\TAB.Admin.csproj|d:\\data\\hk2_nam_4\\dacn\\project\\source_code\\csharp_web_mvc\\trananhbadminton\\tab.admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{71C55C00-4347-487A-B7AF-E66EBD0DEC9F}|TAB.Admin\\TAB.Admin.csproj|solutionrelative:tab.admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,40 +38,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "form-add-san-pham.html",
-              "DocumentMoniker": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\wwwroot\\doc\\form-add-san-pham.html",
-              "RelativeDocumentMoniker": "TAB.Admin\\wwwroot\\doc\\form-add-san-pham.html",
-              "ToolTip": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\wwwroot\\doc\\form-add-san-pham.html",
-              "RelativeToolTip": "TAB.Admin\\wwwroot\\doc\\form-add-san-pham.html",
-              "ViewState": "AQIAAJUBAAAAAAAAAAAMwK0BAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-04-04T11:32:47.246Z",
+              "DocumentIndex": 1,
+              "Title": "main.css",
+              "DocumentMoniker": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\wwwroot\\css\\main.css",
+              "RelativeDocumentMoniker": "TAB.Admin\\wwwroot\\css\\main.css",
+              "ToolTip": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\wwwroot\\css\\main.css",
+              "RelativeToolTip": "TAB.Admin\\wwwroot\\css\\main.css",
+              "ViewState": "AQIAABgBAAAAAAAAAAAAABkBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-10T02:18:40.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TAB.Admin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "TAB.Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABAAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADoAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-04T11:05:39.281Z"
+              "WhenOpened": "2024-04-07T17:48:49.494Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "TAB.Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "TAB.Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "TAB.Admin\\Views\\User\\Login.cshtml",
+              "ToolTip": "D:\\DATA\\HK2_Nam_4\\DACN\\Project\\Source_Code\\CSharp_Web_MVC\\TranAnhBadminton\\TAB.Admin\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "TAB.Admin\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAmwEoAAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-04T11:05:34.571Z"
+              "WhenOpened": "2024-04-07T17:41:34.09Z",
+              "EditorCaption": ""
             }
           ]
         },
